@@ -1,5 +1,5 @@
 
-// use of bapticks , placegolders where we can inject any variable 
+// use of backtick , placegolders where we can inject any variable 
 const name = "akshi"
 // console.log(`my name is ${name}`);
 
